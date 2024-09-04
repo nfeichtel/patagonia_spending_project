@@ -1,0 +1,186 @@
+transaction_date,day_of_week,city,transaction_type,type,amount_USD
+3/7/24,Thursday,bariloche,credit,accommodation,33.55
+3/24/24,Sunday,bolson,credit,accommodation,20.65
+3/26/24,Tuesday,bariloche,cash,accommodation,179.38
+3/30/24,Saturday,bolson,cash,accommodation,89.69
+3/30/24,Saturday,chalten,credit,accommodation,19.03
+4/2/24,Tuesday,chalten,cash,accommodation,83.08
+4/3/24,Wednesday,chalten,cash,accommodation,94.41
+4/3/24,Wednesday,chalten,cash,accommodation,47.2
+4/3/24,Wednesday,calafate,credit,accommodation,14.77
+4/5/24,Friday,calafate,credit,accommodation,73.36
+4/8/24,Monday,calafate,credit,accommodation,36.77
+4/8/24,Monday,puerto natales,credit,accommodation,104.87
+4/8/24,Monday,puerto natales,credit,accommodation,15.94
+4/12/24,Friday,ushuaia,credit,accommodation,305.75
+3/20/24,Wednesday,bariloche,cash,eating out,1.99
+3/21/24,Thursday,bariloche,cash,eating out,27.87
+3/21/24,Thursday,bariloche,credit,eating out,31.54
+3/22/24,Friday,bariloche,credit,eating out,33.1
+3/23/24,Saturday,bariloche,cash,eating out,2.99
+3/23/24,Saturday,bariloche,credit,eating out,14.58
+3/23/24,Saturday,bariloche,credit,eating out,28.44
+3/25/24,Monday,bariloche,cash,eating out,1.89
+3/25/24,Monday,bariloche,credit,eating out,21.62
+3/25/24,Monday,bariloche,credit,eating out,47.11
+3/26/24,Tuesday,bariloche,cash,eating out,9.44
+3/26/24,Tuesday,bariloche,credit,eating out,16.76
+3/27/24,Wednesday,bolson,credit,eating out,24.92
+3/29/24,Friday,bolson,cash,eating out,3.78
+3/29/24,Friday,bolson,credit,eating out,40.46
+3/30/24,Saturday,bolson,cash,eating out,37.76
+3/31/24,Sunday,chalten,credit,eating out,30.88
+3/31/24,Sunday,chalten,credit,eating out,33.22
+3/31/24,Sunday,chalten,credit,eating out,35.14
+4/1/24,Monday,chalten,credit,eating out,50.04
+4/1/24,Monday,chalten,credit,eating out,25.02
+4/2/24,Tuesday,chalten,cash,eating out,2.83
+4/2/24,Tuesday,chalten,credit,eating out,47.91
+4/2/24,Tuesday,chalten,credit,eating out,28.11
+4/3/24,Wednesday,chalten,cash,eating out,1.89
+4/3/24,Wednesday,chalten,cash,eating out,0.94
+4/3/24,Wednesday,chalten,cash,eating out,35.88
+4/3/24,Wednesday,chalten,credit,eating out,18.1
+4/4/24,Thursday,chalten,cash,eating out,2.83
+4/5/24,Friday,chalten,credit,eating out,34.31
+4/6/24,Saturday,calafate,cash,eating out,20.49
+4/6/24,Saturday,calafate,credit,eating out,29.45
+4/7/24,Sunday,calafate,credit,eating out,44.34
+4/8/24,Monday,puerto natales,credit,eating out,59.17
+4/9/24,Tuesday,puerto natales,credit,eating out,31.25
+4/9/24,Tuesday,puerto natales,credit,eating out,18.89
+4/10/24,Wednesday,puerto natales,credit,eating out,14.87
+4/10/24,Wednesday,punta arenas,credit,eating out,65.96
+4/11/24,Thursday,punta arenas,credit,eating out,22.76
+4/11/24,Thursday,punta arenas,credit,eating out,22.31
+4/12/24,Friday,ushuaia,credit,eating out,35.36
+4/13/24,Saturday,ushuaia,credit,eating out,16.29
+4/14/24,Sunday,ushuaia,cash,eating out,25.58
+4/14/24,Sunday,ushuaia,cash,eating out,8.5
+4/18/24,Thursday,ushuaia,credit,eating out,63.82
+4/19/24,Friday,ushuaia,credit,eating out,20.98
+3/21/24,Thursday,bariloche,cash,entertainment,21.89
+3/21/24,Thursday,bariloche,credit,entertainment,10.58
+3/24/24,Sunday,bariloche,cash,entertainment,5.97
+3/24/24,Sunday,bariloche,credit,entertainment,9.93
+3/25/24,Monday,bariloche,cash,entertainment,4.06
+3/25/24,Monday,bariloche,cash,entertainment,14.63
+3/26/24,Tuesday,bariloche,cash,entertainment,16.99
+3/27/24,Wednesday,bolson,cash,entertainment,1.89
+3/28/24,Thursday,bolson,cash,entertainment,2.83
+3/28/24,Thursday,bolson,cash,entertainment,17.28
+3/29/24,Friday,bolson,cash,entertainment,15.11
+3/29/24,Friday,bolson,cash,entertainment,16.99
+4/1/24,Monday,chalten,cash,entertainment,4.15
+4/2/24,Tuesday,chalten,credit,entertainment,29.81
+4/3/24,Wednesday,chalten,cash,entertainment,10.39
+4/3/24,Wednesday,chalten,credit,entertainment,18.74
+4/4/24,Thursday,chalten,credit,entertainment,44.49
+4/5/24,Friday,calafate,cash,entertainment,15.2
+4/7/24,Sunday,calafate,credit,entertainment,25.8
+4/7/24,Sunday,calafate,credit,entertainment,22.57
+4/7/24,Sunday,calafate,credit,entertainment,13.11
+4/8/24,Monday,puerto natales,credit,entertainment,12.84
+4/9/24,Tuesday,puerto natales,credit,entertainment,24.51
+4/9/24,Tuesday,puerto natales,credit,entertainment,10.08
+4/10/24,Wednesday,punta arenas,credit,entertainment,24.95
+4/10/24,Wednesday,punta arenas,credit,entertainment,10.29
+4/11/24,Thursday,punta arenas,credit,entertainment,28.02
+4/13/24,Saturday,ushuaia,credit,entertainment,59.35
+4/14/24,Sunday,ushuaia,cash,entertainment,1.89
+4/14/24,Sunday,ushuaia,cash,entertainment,12.65
+4/14/24,Sunday,ushuaia,credit,entertainment,7.61
+4/15/24,Monday,ushuaia,credit,entertainment,30.08
+4/17/24,Wednesday,ushuaia,credit,entertainment,18.33
+4/18/24,Thursday,ushuaia,cash,entertainment,4.72
+4/18/24,Thursday,ushuaia,credit,entertainment,25.81
+3/22/24,Friday,bariloche,credit,excursion,16.55
+3/24/24,Sunday,bariloche,credit,excursion,78.51
+3/27/24,Wednesday,bolson,cash,excursion,2.83
+4/6/24,Saturday,calafate,credit,excursion,96.73
+4/7/24,Sunday,calafate,cash,excursion,63.73
+4/14/24,Sunday,ushuaia,cash,excursion,22.66
+4/14/24,Sunday,ushuaia,credit,excursion,45
+4/15/24,Monday,ushuaia,credit,excursion,68.58
+4/16/24,Tuesday,ushuaia,cash,excursion,22.66
+4/18/24,Thursday,ushuaia,cash,excursion,15.11
+3/27/24,Wednesday,bolson,credit,groceries,33.38
+3/29/24,Friday,bolson,cash,groceries,8.97
+4/3/24,Wednesday,chalten,credit,groceries,8.02
+4/11/24,Thursday,ushuaia,credit,groceries,22.94
+4/13/24,Saturday,ushuaia,credit,groceries,49.67
+4/15/24,Monday,ushuaia,credit,groceries,38.3
+3/21/24,Thursday,bariloche,cash,health,2.99
+3/22/24,Friday,bariloche,cash,health,8.14
+3/24/24,Sunday,bariloche,cash,health,3.98
+3/25/24,Monday,bariloche,cash,health,1.51
+3/25/24,Monday,bariloche,cash,health,2.83
+3/26/24,Tuesday,bariloche,cash,health,5.85
+3/28/24,Thursday,bolson,cash,health,3.3
+4/5/24,Friday,calafate,credit,health,11.5
+4/6/24,Saturday,calafate,cash,health,5.66
+4/6/24,Saturday,calafate,credit,health,21.13
+4/8/24,Monday,puerto natales,credit,health,24.71
+3/22/24,Friday,bariloche,credit,misc,3.5
+3/24/24,Sunday,bariloche,cash,misc,7.96
+3/25/24,Monday,bariloche,cash,misc,8.02
+4/3/24,Wednesday,chalten,cash,misc,0.98
+4/6/24,Saturday,calafate,cash,misc,3.3
+4/6/24,Saturday,calafate,credit,misc,62.34
+4/18/24,Thursday,ushuaia,cash,misc,9.44
+4/18/24,Thursday,ushuaia,credit,misc,57.6
+4/18/24,Thursday,ushuaia,credit,misc,19.51
+3/21/24,Thursday,bariloche,cash,snacks,9.26
+3/21/24,Thursday,bariloche,credit,snacks,5.14
+3/22/24,Friday,bariloche,cash,snacks,3.48
+3/23/24,Saturday,bariloche,cash,snacks,1.09
+3/24/24,Sunday,bariloche,cash,snacks,1.49
+3/24/24,Sunday,bariloche,cash,snacks,4.78
+3/24/24,Sunday,bariloche,credit,snacks,5.17
+3/25/24,Monday,bariloche,cash,snacks,2.83
+3/25/24,Monday,bariloche,cash,snacks,2.83
+3/25/24,Monday,bariloche,cash,snacks,4.53
+3/25/24,Monday,bariloche,credit,snacks,9.31
+3/27/24,Wednesday,bolson,credit,snacks,5.86
+3/29/24,Friday,bolson,cash,snacks,2.36
+3/29/24,Friday,bolson,credit,snacks,6.55
+3/29/24,Friday,bolson,credit,snacks,48.02
+3/31/24,Sunday,bolson,cash,snacks,6.56
+4/3/24,Wednesday,chalten,cash,snacks,6.04
+4/3/24,Wednesday,chalten,cash,snacks,3.02
+4/6/24,Saturday,calafate,cash,snacks,6.61
+4/9/24,Tuesday,puerto natales,credit,snacks,7.59
+4/11/24,Thursday,punta arenas,credit,snacks,13.14
+4/14/24,Sunday,ushuaia,credit,snacks,4.93
+4/15/24,Monday,ushuaia,credit,snacks,11.47
+4/15/24,Monday,ushuaia,cash,snacks,6.56
+4/16/24,Tuesday,ushuaia,credit,snacks,20.14
+4/17/24,Wednesday,ushuaia,credit,snacks,15.94
+4/19/24,Friday,ushuaia,cash,snacks,11.33
+3/18/24,Monday,bariloche,credit,transportation,84.89
+3/20/24,Wednesday,bariloche,cash,transportation,1.99
+3/20/24,Wednesday,bariloche,cash,transportation,3.38
+3/24/24,Sunday,bariloche,cash,transportation,13.93
+3/24/24,Sunday,bariloche,credit,transportation,10.86
+3/25/24,Monday,bariloche,cash,transportation,2.83
+3/25/24,Monday,bariloche,credit,transportation,10.19
+3/26/24,Tuesday,bolson,cash,transportation,5.66
+3/26/24,Tuesday,bariloche,credit,transportation,2.63
+3/26/24,Tuesday,bolson,credit,transportation,10.34
+3/27/24,Wednesday,bolson,cash,transportation,1.13
+3/27/24,Wednesday,bolson,cash,transportation,3.02
+3/28/24,Thursday,bolson,cash,transportation,2.64
+3/28/24,Thursday,bolson,cash,transportation,13.69
+3/29/24,Friday,bolson,cash,transportation,1.6
+3/29/24,Friday,bolson,cash,transportation,1.6
+3/29/24,Friday,bolson,cash,transportation,3.02
+3/29/24,Friday,bolson,cash,transportation,3.02
+3/29/24,Friday,chalten,credit,transportation,307.21
+3/31/24,Sunday,chalten,cash,transportation,0.94
+3/31/24,Sunday,bolson,cash,transportation,3.02
+4/5/24,Friday,calafate,cash,transportation,45.32
+4/8/24,Monday,puerto natales,credit,transportation,62.34
+4/10/24,Wednesday,punta arenas,credit,transportation,22.56
+4/11/24,Thursday,ushuaia,credit,transportation,103.67
+4/16/24,Tuesday,ushuaia,cash,transportation,15.11
+4/19/24,Friday,ushuaia,credit,transportation,4.12
