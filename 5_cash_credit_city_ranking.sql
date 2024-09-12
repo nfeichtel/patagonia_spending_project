@@ -3,8 +3,8 @@
 SELECT
     city,
     transaction_type,
-    SUM(amount_usd),
-    RANK() OVER(PARTITION BY transaction_type ORDER BY SUM(amount_usd) DESC)
+    ROUND(SUM(amount_usd::numeric), 2) AS total_spending,
+    RANK() OVER(PARTITION BY transaction_type ORDER BY SUM(amount_usd) DESC) AS spending_rank
 FROM patagonia_spending
 GROUP BY 
     city, 
