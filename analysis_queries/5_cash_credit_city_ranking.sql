@@ -8,4 +8,11 @@ SELECT
 FROM patagonia_spending
 GROUP BY 
     city, 
-    transaction_type
+    transaction_type;
+
+SELECT
+    transaction_type,
+    ROUND(SUM(amount_usd)::numeric, 2) AS total_usd,
+    
+FROM patagonia_spending
+GROUP BY transaction_type;
