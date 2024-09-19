@@ -1,4 +1,13 @@
 # Project Background:
+insert summary and description of patagonia
+
+insert overview of data and project
+
+Insights and recommendations are provided on the following key areas:
+
+- **Categorical Spending Analysis:**
+- **City Spending Analysis:**
+- **Cash vs Credit Usage:**
 
 The SQL queries used to load and create the database can be found here [Setup Queries](/setup_queries)
 
