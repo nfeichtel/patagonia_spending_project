@@ -1,5 +1,6 @@
 # Project Background:
 
+The SQL queries used to load and create the database can be found here (/setup_queries)
 
 # Data Structure & Initial Checks:
 
