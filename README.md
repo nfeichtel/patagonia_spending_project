@@ -10,6 +10,7 @@ An interactive Tableau dashboard used to report and explore spending can be foun
 
 
 # Executive Summary:
+Patagonia is an expensive place to travel. The highest costs for this specific trip are dining, accommodation, and transporation. On a per day basis, the most expensive cities to visit in patagonia are El Chalten, El Calafate, and Puerto Natales. Transactions were paid for with credit at a rate of nearly 3 times that of cash, with El Bolson being the only city where cash spent was great than credit used.
 ![Patagonia Expenses-2](https://github.com/user-attachments/assets/059d21cd-d9c6-4425-9c2e-37a86cafc3ff)
 
 
